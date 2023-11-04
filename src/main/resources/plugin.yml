@@ -1,0 +1,4 @@
+name: McPlugin
+version: '${project.version}'
+main: org.kokapuk.mcplugin.McPlugin
+api-version: '1.20'
